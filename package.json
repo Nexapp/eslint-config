@@ -5,6 +5,8 @@
   },
   "version": "1.0.0",
   "description": "Eslint presets",
+  "homepage": "https://github.com/Nexapp/eslint-config-nexapp/#readme",
+  "repository": "Nexapp/eslint-config-nexapp",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
