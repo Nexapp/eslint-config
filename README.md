@@ -2,15 +2,13 @@
 # How to use
 
 ```
-"extends": "eslint-config-nexapp",
- or
-"extends": "nexapp",
+"extends": "@nexapp/eslint-config",
 
 for more specialised rules
 
 "extends": [
-  "nexapp",
-  "nexapp/jest",
-  "nexapp/hook",
+  "@nexapp/eslint-config",
+  "@nexapp/eslint-config/jest",
+  "@nexapp/eslint-config/hook",
 ]
 ```
